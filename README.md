@@ -1,1 +1,1 @@
-# discord-ses-bot
+PUBLIC KAYIT ODALARI İÇİN SES BOTU
