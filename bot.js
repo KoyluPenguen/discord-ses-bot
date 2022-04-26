@@ -108,9 +108,9 @@ client.on('warn', e => {
 client.on('error', e => {
     console.log(chalk.bgRed(e.replace(regToken, 'that was redacted')));
 });
-
+///SES BÖLÜMÜ
 client.on("ready", () => {
-    client.channels.cache.get("896337892572540939").join();
+    client.channels.cache.get("botun gireceği kanal id").join();
   });
 
 client.login(ayarlar.token);
